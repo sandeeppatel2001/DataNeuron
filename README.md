@@ -1,7 +1,8 @@
 ﻿# DataNeuron
 ### Project Setup Guide
+<img width="953" alt="Screenshot 2024-05-03 020636" src="https://github.com/sandeeppatel2001/DataNeuron/assets/95873801/e8c7f672-4903-4d39-b283-a2a4463fee88">
 
-To set up the project locally on your machine, follow these steps:
+## To set up the project locally on your machine, follow these steps:
 
 **Step 1:** Navigate to the `DataNeuron` directory:
 
